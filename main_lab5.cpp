@@ -1,14 +1,3 @@
-//
-// ECE 220 Lab - Winter 2023 - Programming for Electrical Engineering
-// // Lab 1: Play with a Machine
-// // Lab 2: Let us Translate
-// // Lab 3: Divide and Conquer
-// // Lab 4: Modular and Tailored
-// ---> Lab 5: Object Oriented
-//
-//
-
-
 #include <iostream>
 #include <string.h>
 
